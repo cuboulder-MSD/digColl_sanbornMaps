@@ -22,7 +22,7 @@ Link to digital collection [here](https://doi.org/10.25810/gp8q-3r24).
 ### Physical Item Location
 ### Holding Institution
 ### Collection Name
-### Identifier
+### Identifier ARK
 
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
