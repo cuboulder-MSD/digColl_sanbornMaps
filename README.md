@@ -4,7 +4,25 @@ The Sanborn Fire Insurance Maps of Colorado is a digital collection of Sanborn f
 
 Link to digital collection [here](https://doi.org/10.25810/gp8q-3r24).
 ## Metadata
-
+### File Name
+### OCLC Number
+### Sheet
+### Author
+### Title
+### Date
+### Publication
+### Description
+### Scale
+### Location
+### Subject
+### Note
+### Funding Info
+### Copyright Status
+### Conditions of Use
+### Physical Item Location
+### Holding Institution
+### Collection Name
+### Identifier
 
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
