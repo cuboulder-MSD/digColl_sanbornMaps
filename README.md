@@ -33,7 +33,7 @@ This project was funded in part through a Library Services and Technology Act (L
 ### Copyright Status
 Not available.
 ### Conditions of Use
-URI from [rightsstatment.org](Rights: https://rightsstatements.org/page/NoC-NC/1.0/?language=en)
+URI from [rightsstatments.org](https://rightsstatements.org/page/NoC-NC/1.0/?language=en)
 ### Physical Item Location
 Not available
 ### Holding Institution
