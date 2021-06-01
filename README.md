@@ -15,7 +15,7 @@ Individual(s) or corporate entities that created the work. Common creators seen 
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 ### Date
-Date the item was created and issued.
+Date the item was created and issued. Map dates typically range from late 1800s to early 1900s.
 ### Publication Info
 New York : Sanborn-Perris Map Co., 1890
 ### Description
