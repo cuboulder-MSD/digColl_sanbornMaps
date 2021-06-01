@@ -1,4 +1,4 @@
-# digColl_sanborn_maps
+# Sanborn Fire Insurance Maps
 Metadata for the digitized Sanborn Insurance maps at the University of Colorado Boulder.
 
 keywords: maps|Colorado|Sanborn Insurance Maps|metadata|University of Colorado Boulder
