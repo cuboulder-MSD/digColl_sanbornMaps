@@ -11,7 +11,7 @@ Unique control number given to all bibliographic records in the WorldCat catalog
 ### Sheet
 Number and type of sheets associated with the map.
 ### Author
-Individual(s) or corporate entities that created the work. Common creators seen in the collection include: Sanborn-Perris Map Co
+Individual(s) or corporate entities that created the work. Common creators seen in the collection include: Sanborn-Perris Map Co.
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 ### Date
