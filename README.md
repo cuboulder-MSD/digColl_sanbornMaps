@@ -64,6 +64,8 @@ Controlled, stable link to the resource.
 Example: https://ark.colorado.edu/ark:/47540/891s3s9730hr
 ## Resources
 For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Sanborn Insurance Maps](https://archives.colorado.edu/repositories/2/resources/750).
+## Resources
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Sanborn Insurance Maps]()https://archives.colorado.edu/repositories/2/resources/750.
 
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
