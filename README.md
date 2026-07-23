@@ -72,4 +72,5 @@ Please note that the metadata contained in this repository may not be the most u
 ## Metadata Versions
 1st version: Sanborn_Fire_Insurance_Maps_o_20210527063723.csv; Created in 2021, uploaded in 2025. Serves as a back up of legacy metadata.
 2nd version: Sanborn_Fire_Insurance_Maps_o_20250324064235.csv; Uploaded 2025. Legacy metadata cleaned and consistent to current standards. Uploaded to CUDL.
+3rd version: Sanborn_Fire_Insurance_Maps_o_20260723072312.csv; Uploaded 2026-07. All metadata including new volumes 4 and 9 of Denver County, 1929.
 
